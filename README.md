@@ -4,6 +4,11 @@
 ## Description
 This Web application takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+## Behaviour Driven Developement (BDD)
+|BEHAVIOUR| INPUT| OUTPUT|
+|:--------|:-----|:------|
+|Dialog Box| Users Credentials| Akan Name|
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
