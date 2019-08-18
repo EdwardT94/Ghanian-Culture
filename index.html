@@ -12,15 +12,18 @@
     <script src="js/akan.js"></script>
           <div class="bg">
             <h1><strong>AKAN NAMES CALCULATOR APP</strong></i></h1> 
-          </div> 
-            <div class="container">
-                <div class="row">
-                  <div class="column">
-                      <h4><u>About The App</h4></u></h4>
-                        <p>This web application will take user's birthday and calculate the day of the week they were born and then depending on their gender outputs their Akan Name.  The application should check whether the date and month entered is valid. if either of them is invalid,  the user should be alerted and asked to enter a valid one.</p>
-                          </div>
-                            <div class="column">
-                              <h4><u>Akan Day Names.(Meaning)</u></h4>
+                <div class="day">
+                  <h5><i><marquee  behavior="scroll" direction="left">"Enter your birthday and the app will tell you the day of the week were you born."</marquee></i></h5>
+                     </div>
+                       </div> 
+                         <div class="container">
+                            <div class="row">
+                                <div class="column">
+                                  <h4><u>About The App</h4></u></h4>
+                                      <p>This web application will take user's birthday and calculate the day of the week they were born and then depending on their gender outputs their Akan Name.  The application should check whether the date and month entered is valid. if either of them is invalid,  the user should be alerted and asked to enter a valid one.</p>
+                                    </div>
+                                  <div class="column">
+                               <h4><u>Akan Day Names.(Meaning)</u></h4>
                             <p>Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.</p>
                           </div>
                         <div class="column">
@@ -29,24 +32,19 @@
                   </div>
                 </div>
               </div>
-            
-      <!--
-            <h3><i>On which day of the week were you born?</i></h3>
-              <p>Enter your birthday</b> (then hit the &quot;Update&quot; button):</p>-->
-                     <form class="form">
-                        <div class="gen">
-                        <h3><i><b>Find my Akan name:</b></i></h3>
-                          <p>Day  : <input TYPE="text" NAME="day" SIZE="2"> </p>
-                            <p>Month: <input TYPE="text" NAME="month" SIZE="2"> </p>
-                                <p>Year : <input TYPE="text" NAME="year" SIZE="4"> </p>    
-                              
-                              <h5> GENDER </h5>
-                          <p><input type="radio" name="male"  ONCLICK="compute(this.form)">MALE <br><input type="radio" name="female" ONCLICK="tom(this.form)">FEMALE 
+
+              <form class="form">
+                  <div class="gen">
+                      <h3><i><b>Find my Akan name:</b></i></h3>
+                        <p>Day  : <input TYPE="text" NAME="day" SIZE="2"> </p>
+                          <p>Month: <input TYPE="text" NAME="month" SIZE="2"> </p>
+                            <p>Year : <input TYPE="text" NAME="year" SIZE="4"> </p>    
+                              <h6><u><b>GENDER</b></h6></u> </h> 
+                          <p><input type="radio" name="male"  ONCLICK="compute(this.form)">MALE <br><input type="radio" name="female" ONCLICK="tom(this.form)">FEMALE</p>
                         <p>Date of Birth: <input TYPE="text" NAME="result1" SIZE="18"> </p>
                       <p>Day of Week: <input TYPE="text" NAME="result2" SIZE="18"> </p>
-                    </div>
+                  </div>
               </form>
-</form>
 
 </body>
 </html>

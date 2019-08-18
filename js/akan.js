@@ -18,13 +18,13 @@ days[5] = "Yaw"
 days[6] = "Kofi"
 //female Initialize Days of Week Array
 day = new MakeArray(7);
-day[0] = "w"
-day[1] = "K"
-day[2] = "Kq"
-days[3] = "Ka"
-days[4] = "Ku"
-days[5] = "Ya"
-days[6] = "jj"
+day[0] = "Ama"
+day[1] = "Akosua"
+day[2] = "Adwoa"
+days[3] = "Abenaa"
+days[4] = "Akua"
+days[5] = " Yaa"
+days[6] = "Afua"
 
 //Initialize Months Array
 months = new MakeArray(12);
