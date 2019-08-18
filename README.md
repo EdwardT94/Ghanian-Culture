@@ -22,4 +22,4 @@ No bugs
 email: edwardmutisyathomas@gmail.com or 
 LinkedIn: Edward Thomas
 ### License
-Copyright (c) 2019.[MITlicense](LICENSE)
+Copyright (c) 2019.[MIT LICENSE](LICENSE)
