@@ -55,8 +55,8 @@ h5{
     padding-bottom: 30;
 }
 .bg{
-    background-image: url(../images/kan.jpg); height: 550px;
-    background-repeat: no-repeat, no repeat;
+    background-image: url(../images/kan.jpg); height: 600px;
+    background-repeat: no-repeat,
 }
 .day{
     padding-left: 50px;
