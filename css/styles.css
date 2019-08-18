@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    background-color: rgb(201, 28, 28);
+    padding: 25px;
+    color: white;
+}
+
+.gen{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+}
+#gender{
+    padding-top: 20px;
+}
+.input{
+    padding-left: 10px;
+}
+.body{
+    background-color: rgb(235, 210, 179);
+    background-repeat:no-repeat; 
+    background-size: cover;
+}
+.column{
+    background: rgb(201, 28, 28);
+    display: table-cell;
+    padding: 50px;
+    width: 33%;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    border-right: 3px solid #ffffff;
+    border-left: 3x solid #ffffff;
+    border-color:rgb(8, 8, 8);
+    border-top-color: black;
+   
+}
+.row{
+    margin: 1px 0;
+    border-left: 1px solid #ffffff;
+    border-top: 1px;
+    border-bottom: 1px;
+}
+.form{
+    padding: 500px; 
+    padding-top: 20px;
+}
+.bg{
+    background-image: url(../images/kan.jpg); height: 600px;
+    background-repeat: no-repeat, no repeat;
+}
