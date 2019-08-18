@@ -23,7 +23,7 @@ day[1] = "Akosua"
 day[2] = "Adwoa"
 days[3] = "Abenaa"
 days[4] = "Akua"
-days[5] = " Yaa"
+days[5] = "Yaa"
 days[6] = "Afua"
 
 //Initialize Months Array
