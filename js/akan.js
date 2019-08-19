@@ -21,10 +21,10 @@ day = new MakeArray(7);
 day[0] = "Ama"
 day[1] = "Akosua"
 day[2] = "Adwoa"
-days[3] = "Abenaa"
-days[4] = "Akua"
-days[5] = "Yaa"
-days[6] = "Afua"
+day[3] = "Abenaa"
+day[4] = "Akua"
+day[5] = "Yaw"
+day[6] = "Afua"
 
 //Initialize Months Array
 months = new MakeArray(12);
