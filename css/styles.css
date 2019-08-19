@@ -1,15 +1,16 @@
 h1{
     text-align: center;
-    background-color:  rgb(75, 75, 16);
+    background-color:rgba(112, 82, 1, 0.788);
     color: black;
     padding-bottom: 10px;
     padding-top: 10px;
+
 }
 .h5{
     align-content: center;
-    background-color: rgb(75, 75, 16);
+    background-color:rgba(112, 82, 1, 0.788);
     padding: 15px;
-    color: white;
+    color: black;
     margin: 0px;
     padding-left: 10px;
 }
@@ -19,7 +20,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);
     font-size: 18px;
     align-items: center;
-    background-color: rgb(75, 75, 16);
+    background-color: rgba(112, 82, 1, 0.788);
 }
 #gender{
     padding-top: 20px;
@@ -30,19 +31,21 @@ h1{
 .body{
     background-color: rgb(214, 146, 86);
     background-size: cover;
+    background-image: url(../images/black.jpg)
 }
 .column{
-    background:  rgb(75, 75, 16);
+    background:  rgba(112, 82, 1, 0.788);
     display: table-cell;
-    padding: 50px;
+    padding: 5px;
     width: 33%;
     text-align: center;
-    color:rgb(0, 0, 0);
+    color: black;
     vertical-align: middle;
     border-right: 3px solid #0c0c0c;
     border-left: 3x solid #080808;
     border-color:rgb(8, 8, 8);
     border-top-color: black;
+   
    
 }
 .row{
@@ -57,7 +60,7 @@ h1{
     padding-bottom: 30px;
 }
 .bg{
-    background-image: url(../images/akan1.jpg);
+    background-image: url(../images/w.jpg);
     height: 77%; width: 110%;
     background-repeat: repeat-x;
     padding-bottom: 0px;
