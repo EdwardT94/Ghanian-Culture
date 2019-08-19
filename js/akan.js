@@ -23,7 +23,7 @@ day[1] = "Akosua"
 day[2] = "Adwoa"
 day[3] = "Abenaa"
 day[4] = "Akua"
-day[5] = "Yaw"
+day[5] = "Yaa"
 day[6] = "Afua"
 
 //Initialize Months Array
@@ -84,7 +84,7 @@ function tom(form) {
    if ((val2 < 0) || (val2 > 12)) {
       alert("Month is out of range")
    }  
-   var val2x = parseInt(form.month.value, 10)
+   var val2x = pars0eInt(form.month.value, 10)
    var val3 = parseInt(form.year.value, 10)
    if (val3 < 1900) {
       alert("You're that old!")

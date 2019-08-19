@@ -1,22 +1,25 @@
 h1{
     text-align: center;
-    background-color: rgb(235, 210, 179);
-    padding: 25px;
+    background-color:  rgb(75, 75, 16);
     color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
-h5{
+.h5{
     align-content: center;
-    background-color: rgb(121, 117, 117);
+    background-color: rgb(75, 75, 16);
     padding: 15px;
     color: white;
-    padding-right: 20px;
+    margin: 0px;
+    padding-left: 10px;
 }
 
 .gen{
     padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);
     font-size: 18px;
     align-items: center;
+    background-color: rgb(75, 75, 16);
 }
 #gender{
     padding-top: 20px;
@@ -25,12 +28,11 @@ h5{
     padding-left: 10px;
 }
 .body{
-    background-color: rgb(235, 210, 179);
-    background-repeat:no-repeat; 
+    background-color: rgb(214, 146, 86);
     background-size: cover;
 }
 .column{
-    background:  rgb(121, 117, 117);
+    background:  rgb(75, 75, 16);
     display: table-cell;
     padding: 50px;
     width: 33%;
@@ -52,14 +54,14 @@ h5{
 .form{
     padding: 500px; 
     padding-top: 20px;
-    padding-bottom: 30;
+    padding-bottom: 30px;
 }
 .bg{
-    background-image: url(../images/kan.jpg); height: 600px;
-    background-repeat: no-repeat,
+    background-image: url(../images/akan1.jpg);
+    height: 77%; width: 110%;
+    background-repeat: repeat-x;
+    padding-bottom: 0px;
 }
-.day{
-    padding-left: 50px;
-    text-align: center;
-    padding-top: 200px;
+.button{
+    padding-bottom: 10px;
 }
