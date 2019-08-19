@@ -75,7 +75,7 @@ function compute(form) {
    form.result2.value = days[val0]
    
 }   
-function tom(form) {
+function tomm(form) {
    var val1 = parseInt(form.day.value, 10)
    if ((val1 < 0) || (val1 > 31)) {
       alert("Day is out of range")
